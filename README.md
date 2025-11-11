@@ -4,16 +4,16 @@ I'm a Senior Developer & Technical Lead with 10+ years of experience building sc
 
 ## 🚀 About Me
 
-- 💼 Full-stack Developer | Tech Lead | Mentor  
+- 💼  Software Engineer | Back End Developer | Tech Lead | Mentor  
 - 🌐 Specialized in  **PHP**,Drupal**, **CodeIgniter**, **WordPress**
 - 🧠 Passionate about **Mentoring**, **Continuous Learning**
 - 📊 Proficient in performance monitoring, SEO, and analytics tools
 
 ## 🛠️ Tech Stack
 **Languages**: PHP, JavaScript, Python, Java  
-**Frameworks & CMS**: Drupal (7-10), Laravel, CodeIgniter, WordPress  
+**Frameworks & CMS**: Drupal (7-11), Laravel, CodeIgniter, WordPress  
 **Frontend**: ReactJS, Twig, Bootstrap, SASS, jQuery  
-**DevOps & Tools**: Docker, Kubernetes, Terraform, GitLab CI/CD, AWS, Lando  
+**DevOps & Tools**: Docker, Kubernetes, Terraform, GitLab CI/CD, AWS,Google Cloud, Lando  
 **Monitoring & Analytics**: New Relic, Sumo Logic, GTM, Google Analytics  
 **Project Tools**: JIRA, Confluence, Trello, Miro, Figma  
 **CRM & Marketing**: Salesforce, HubSpot  
