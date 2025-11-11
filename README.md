@@ -5,7 +5,7 @@ I'm a Senior Developer & Technical Lead with 10+ years of experience building sc
 ## 🚀 About Me
 
 - 💼 Full-stack Developer | Tech Lead | Mentor  
-- 🌐 Specialized in  **PHP**,Drupal**, **Laravel**, **CodeIgniter**, **WordPress**, **ReactJS**
+- 🌐 Specialized in  **PHP**,Drupal**, **CodeIgniter**, **WordPress**
 - 🧠 Passionate about **Mentoring**, **Continuous Learning**
 - 📊 Proficient in performance monitoring, SEO, and analytics tools
 
